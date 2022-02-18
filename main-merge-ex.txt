@@ -2,7 +2,7 @@
 This is a file created in main branch to perform 3 way merge
 Hello from main
 
-This a test  file to perform lab on way merge
+This a test  file to perform lab on 3 way merge
 Hello from branch
 
 Reabse lab is performed
