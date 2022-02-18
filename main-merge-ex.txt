@@ -6,3 +6,5 @@ This a test  file to perform lab
 Hello from branch
 
 Reabse lab is performed
+
+This line is to test the stashing
