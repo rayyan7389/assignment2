@@ -1,6 +1,2 @@
-
-
-
-
-
-This is a file created in main branch to perform 3 way merge
+This a test  file to perform lab
+Hello from branch
